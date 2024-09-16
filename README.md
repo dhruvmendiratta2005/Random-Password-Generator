@@ -1,0 +1,1 @@
+This is a basic randomized password genertor. It always generates a random password that includes symbols, letters and numbers. The base of this project is written in python. And it is a very easy project for beginners.
